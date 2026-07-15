@@ -6,6 +6,18 @@ All notable changes to Tabhunter are documented in this file.
 
 - Placeholder for upcoming changes
 
+## [3.6.12] - 2026-07-15
+
+- Change default Windows command sequence from `Ctrl+Shift+S` to `Alt+Shift+S`
+
+## [3.6.11] - 2026-07-15
+
+- Consolidate history files
+
+## [3.6.10] - 2026-07-15
+
+- Improved refresh buttons by replacing PNGs with SVGs
+
 ## [3.6.9] - 2025-09-25
 
 - Added support for searching URLs in non-Latin languages without requiring punycode

@@ -35,7 +35,7 @@ Use the browser action button or the default keyboard shortcut for your platform
 
 - macOS: `Ctrl-Shift-T`
 - Linux: `Ctrl-5`
-- Windows: `Ctrl-Shift-S`
+- Windows: `Alt-Shift-S`
 
 These defaults can still depend on browser-level shortcut availability and configuration.
 
